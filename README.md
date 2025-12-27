@@ -6,7 +6,7 @@ a simple cmd based talking bot with gemini api
 if you want to exit the loop then just say exit
 
 # How to run
-1. take the jarvis.py file and save
-2. install python and the required modules in the code on the topmost with the import keyword
-3. then in the cmd change the directory to which the file is in
-4. then run python jarvis.py
+1. go to the build folder
+2. In the build folder go to the jarvis.exe file 
+3. Click on view raw link and download the file 
+4. Double click on the file to run it
